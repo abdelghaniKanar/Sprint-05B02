@@ -1,0 +1,6 @@
+{
+    "jwtSecret": "kn_A2003",
+    "tokenExpiration": "24h",
+    "emailVerificationExpiry": 86400000,
+    "passwordResetExpiry": 3600000
+}
